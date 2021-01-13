@@ -6,5 +6,7 @@ target/
 *.iml
 .settings/
 .classpath
+.project23
+.project2
 .project99
 
